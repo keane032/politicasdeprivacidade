@@ -1,3 +1,3 @@
 # politicasdeprivacidade
 
-- 🔎 [Board](https://keane032.github.io/politicasdeprivacidade/board)
+- 🔎 [Board](https://keane032.github.io/politicasdeprivacidade/board.html)
